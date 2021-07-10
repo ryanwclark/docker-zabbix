@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Get days left before certificate expires
-## Author: Ryan Clark <dave at ryanwclarkdot ca>
+## Author: Ryan Clark <ryanwclark@yahoo.com>
 
 ### Set Defaults
 SERVER=$1
